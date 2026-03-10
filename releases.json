@@ -1,19 +1,19 @@
 {
-  "version": "1.2.3",
-  "released_at": "2026-03-10T18:43:12Z",
+  "version": "1.2.4",
+  "released_at": "2026-03-10T22:21:45Z",
   "release_notes": "",
-  "release_url": "https://github.com/serhabdel/hieljobs-releases/releases/tag/v1.2.3",
+  "release_url": "https://github.com/serhabdel/hieljobs-releases/releases/tag/v1.2.4",
   "platforms": {
     "windows": {
       "installer": {
-        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.2.3/HielJobs-1.2.3-Setup.exe",
-        "sha256": "f39790fae3b506f5e5fbd2be0ba8304fd4ada7d4b6d528c19386e9b6038c3a77"
+        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.2.4/HielJobs-1.2.4-Setup.exe",
+        "sha256": "33f443778b319fc12b6b1ec21dda773d436db65d3b306b56d613d63e894e05d9"
       }
     },
     "linux": {
       "deb": {
-        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.2.3/hieljobs_1.2.3_amd64.deb",
-        "sha256": "fc48fa6860d7997c8d4ddef501d8b4b0b3a0bb848f5fb6f012ce1a4822af661d"
+        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.2.4/hieljobs_1.2.4_amd64.deb",
+        "sha256": "184cd6139776667550b62510d5cead3eba366876c59b5012254852b7e74edb4e"
       }
     }
   }
