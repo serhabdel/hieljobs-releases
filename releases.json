@@ -1,19 +1,19 @@
 {
   "version": "1.4.0",
-  "released_at": "2026-05-24T13:58:57Z",
+  "released_at": "2026-09-12T13:16:13Z",
   "release_notes": "",
   "release_url": "https://github.com/serhabdel/hieljobs-releases/releases/tag/v1.4.0",
   "platforms": {
     "windows": {
       "installer": {
         "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.4.0/HielJobs-1.4.0-Setup.exe",
-        "sha256": "87aa427698316e4306231ba74db7ff833bdfe666b771070946f498406b2b0d52"
+        "sha256": "aba04479b4a28c5943267add244a54c10402e02cae7367e42bd5b5884e6f099f"
       }
     },
     "linux": {
       "deb": {
         "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.4.0/hieljobs_1.4.0_amd64.deb",
-        "sha256": "7dca7b43d7e626da600349e90d61506a6789e0b1114df1fcd751742beecccfd8"
+        "sha256": "aaaecc911346e72ad4a4815803736362577f00b36ee0d67649744578124edd3c"
       }
     }
   }
