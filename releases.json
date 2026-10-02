@@ -1,25 +1,25 @@
 {
-  "version": "1.7.2",
-  "released_at": "2026-10-02T20:26:55Z",
+  "version": "1.7.3",
+  "released_at": "2026-10-02T23:15:26Z",
   "release_notes": "",
-  "release_url": "https://github.com/serhabdel/hieljobs-releases/releases/tag/v1.7.2",
+  "release_url": "https://github.com/serhabdel/hieljobs-releases/releases/tag/v1.7.3",
   "platforms": {
     "windows": {
       "installer": {
-        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.7.2/HielJobs-1.7.2-Setup.exe",
-        "sha256": "6d42094d31b01a31859eb14d12184bc94bd99958545c4fce3e9aa1de284b9dc3"
+        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.7.3/HielJobs-1.7.3-Setup.exe",
+        "sha256": "7a85c2e9971817a291577dccfad09a6e9ceed902141300546c881c76f2e2cb53"
       }
     },
     "linux": {
       "deb": {
-        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.7.2/hieljobs_1.7.2_amd64.deb",
-        "sha256": "3d0c8e0e2f5f741e74a798b82148a96aed79fe0134eacae98867ad7067270e0f"
+        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.7.3/hieljobs_1.7.3_amd64.deb",
+        "sha256": "5882b060e38078118124343aa52e30096d27518a0cf3e10558cefe14a5235f16"
       }
     },
     "macos": {
       "dmg": {
-        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.7.2/HielJobs-1.7.2-macos-arm64.dmg",
-        "sha256": "346b89d9991b0516abadab11dcf732827d9ba57cf0a1b729483585644bd2af9c"
+        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.7.3/HielJobs-1.7.3-macos-arm64.dmg",
+        "sha256": "c03ab403b689f564a59a4bf24d71b8aca910c7b9ef10796bc5705639a6567e20"
       }
     }
   }
