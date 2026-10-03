@@ -1,25 +1,25 @@
 {
-  "version": "1.11.0",
-  "released_at": "2026-10-03T17:03:29Z",
+  "version": "1.11.1",
+  "released_at": "2026-10-03T19:09:20Z",
   "release_notes": "",
-  "release_url": "https://github.com/serhabdel/hieljobs-releases/releases/tag/v1.11.0",
+  "release_url": "https://github.com/serhabdel/hieljobs-releases/releases/tag/v1.11.1",
   "platforms": {
     "windows": {
       "installer": {
-        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.11.0/HielJobs-1.11.0-Setup.exe",
-        "sha256": "4758ae81a71d32de29f0e3bfc1214e861f4ccf50016d36ac6b588b746517b324"
+        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.11.1/HielJobs-1.11.1-Setup.exe",
+        "sha256": "2991293eb5b1c122b6908bd69a30c486288a145854b1eb80e564b1c36da7246a"
       }
     },
     "linux": {
       "deb": {
-        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.11.0/hieljobs_1.11.0_amd64.deb",
-        "sha256": "95029bcc7bbe0b299b8ed2ec0f9f1d2c16662e4fba8777253c49190c3ee2a56e"
+        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.11.1/hieljobs_1.11.1_amd64.deb",
+        "sha256": "5967f21bd821259a90ca818ba068ba1b952c6a01956b873e27bd7c13a29380d4"
       }
     },
     "macos": {
       "dmg": {
-        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.11.0/HielJobs-1.11.0-macos-arm64.dmg",
-        "sha256": "656bb94979567a24ba06736017c126cba155fa42467a148ee8350eeac6e90a06"
+        "url": "https://github.com/serhabdel/hieljobs-releases/releases/download/v1.11.1/HielJobs-1.11.1-macos-arm64.dmg",
+        "sha256": "bc54d4d4c7ad5ac87108609c9f30405c0bdbed84513376b3e87358bd757121e5"
       }
     }
   }
